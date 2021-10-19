@@ -16,4 +16,4 @@
 
 ## 我的最愛介面
 
-![image]
+![image](https://github.com/chi110356042/CCU-project/blob/main/截圖%202021-10-19%20上午10.52.16.png)

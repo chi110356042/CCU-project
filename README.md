@@ -7,7 +7,7 @@
 
 ## 首頁介面
 
-![image]
+![image](https://github.com/chi110356042/CCU-project/blob/main/截圖%202021-10-19%20上午10.51.45.png)
 
 ## 課程搜尋介面
 
